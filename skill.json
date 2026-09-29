@@ -1,0 +1,20 @@
+{
+  "name": "genpark-autonomous-calendar-deconfliction-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Autonomous multi-party calendar meeting negotiation and slot finding with automatic buffer insertion",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "calendar-scheduler",
+    "meeting-negotiation",
+    "slot-finder",
+    "deconfliction",
+    "shuffle",
+    "scheduling-agent",
+    "messaging-agent",
+    "personal-agent",
+    "agent-skills",
+    "python-standard-library",
+    "mcp"
+  ]
+}
