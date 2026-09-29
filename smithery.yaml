@@ -1,0 +1,6 @@
+name: genpark-autonomous-calendar-deconfliction-scheduler-skill
+version: 1.0.0
+description: Autonomous multi-party calendar meeting negotiation and slot finding with automatic buffer insertion
+command: python
+args:
+  - mcp_server.py
